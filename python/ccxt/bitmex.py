@@ -23,7 +23,7 @@ class bitmex (Exchange):
             'id': 'bitmex',
             'name': 'BitMEX',
             'countries': ['SC'],  # Seychelles
-            'version': 'v1',
+            'version': 'v3',
             'userAgent': None,
             'rateLimit': 2000,
             'has': {
